@@ -1,5 +1,5 @@
 account_id = ""
-name = ""
+name = "TouVPN"
 type = "webpack"
 workers_dev = true
 compatibility_date = "2024-01-27"
